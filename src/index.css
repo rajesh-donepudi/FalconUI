@@ -1,0 +1,16 @@
+.field-label {
+  font-weight: bold;
+  font-size: "100px";
+}
+
+.MuiCard-root {
+  /* box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px !important; */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+
+  border: 0 !important;
+  border-radius: 5px !important;
+}
+
+body {
+  background: ghostwhite !important;
+}
