@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://user-images.githubusercontent.com/61657297/229553744-28f45dcb-5dd3-4e66-a85b-3be5e94c572e.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229553855-9f94d0e8-b6d3-4521-8935-b1cc8dde2949.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229553938-e9ac23d6-b83d-400f-9936-868b2a055b81.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554063-12a3bd72-e324-43da-aa7a-c0c9b2386616.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554151-ec5197ea-7ba5-4b49-84d8-be5c668c911b.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554325-3a1b1525-c9ca-418f-a560-c0eb7c62231b.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554415-1bce281c-6156-48fd-9251-1c4850cb76e3.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554485-3c4f00e8-d0fe-467c-814c-64b51d37f75b.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554625-73402dea-a3a5-4b41-9df7-64af3add958d.png)
+
+![image](https://user-images.githubusercontent.com/61657297/229554763-fb716488-198a-4fd3-8c74-e1dd1ec7119b.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
